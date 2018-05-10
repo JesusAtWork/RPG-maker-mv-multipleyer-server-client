@@ -1,3 +1,10 @@
+/*:
+ * @plugindesc Client multiplayer
+ * @author Marcelo
+ *
+ */
+
+
 var SRD = SRD || {};
 
 (function (){
